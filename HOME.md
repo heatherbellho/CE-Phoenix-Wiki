@@ -1,4 +1,4 @@
-<p align="center">[[/docs/phoenix.png]]</p><p align="center">[[/docs/store_logo_brand.png]]</p>
+<p align="center">[[/images/phoenix.png]]</p><p align="center">[[/images/store_logo_brand.png]]</p>
 
 # CE Phoenix and the CE Phoenix Wiki
 
