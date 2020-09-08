@@ -1,4 +1,7 @@
-<p align="center">[[/images/phoenix.png]]</p><p align="center">[[/images/store_logo_brand.png]]</p>
+<p align="center">
+![](https://github.com/heatherbellho/CE-Phoenix-Wiki/blob/master/images/phoenix.png)
+![](https://github.com/heatherbellho/CE-Phoenix-Wiki/blob/master/images/store_logo_brand.png)
+</p>
 
 # CE Phoenix and the CE Phoenix Wiki
 
